@@ -1,0 +1,10 @@
+C:\Users\vomelaj.05\source\repos\Test - Datum a čas\Test - Datum a čas\bin\Debug\Test - Datum a čas.exe.config
+C:\Users\vomelaj.05\source\repos\Test - Datum a čas\Test - Datum a čas\bin\Debug\Test - Datum a čas.exe
+C:\Users\vomelaj.05\source\repos\Test - Datum a čas\Test - Datum a čas\bin\Debug\Test - Datum a čas.pdb
+C:\Users\vomelaj.05\source\repos\Test - Datum a čas\Test - Datum a čas\obj\Debug\Test - Datum a čas.csprojAssemblyReference.cache
+C:\Users\vomelaj.05\source\repos\Test - Datum a čas\Test - Datum a čas\obj\Debug\Test___Datum_a_čas.Form1.resources
+C:\Users\vomelaj.05\source\repos\Test - Datum a čas\Test - Datum a čas\obj\Debug\Test___Datum_a_čas.Properties.Resources.resources
+C:\Users\vomelaj.05\source\repos\Test - Datum a čas\Test - Datum a čas\obj\Debug\Test - Datum a čas.csproj.GenerateResource.cache
+C:\Users\vomelaj.05\source\repos\Test - Datum a čas\Test - Datum a čas\obj\Debug\Test - Datum a čas.csproj.CoreCompileInputs.cache
+C:\Users\vomelaj.05\source\repos\Test - Datum a čas\Test - Datum a čas\obj\Debug\Test - Datum a čas.exe
+C:\Users\vomelaj.05\source\repos\Test - Datum a čas\Test - Datum a čas\obj\Debug\Test - Datum a čas.pdb
